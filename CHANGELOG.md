@@ -1,3 +1,6 @@
+0.15.4 (23 July 2024)
+* Bumps requests from 2.31.0 to 2.32.0.
+
 0.15.3 (7 Oct 2023)
 * Support Mapping package in Python10
 * Bumping Requests
