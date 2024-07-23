@@ -1,3 +1,8 @@
+0.15.3 (7 Oct 2023)
+* Support Mapping package in Python10
+* Bumping Requests
+* Bumping lxml
+
 * Remove PDF functionality (PDFTableSet)- pdftables is not maintained
 
 0.15.2 (8 February 2017)
